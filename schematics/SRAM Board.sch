@@ -1026,5 +1026,5 @@ d9
 Text Label 5700 5150 0    50   ~ 0
 d8
 Text Label 4600 5350 2    50   ~ 0
-gnd
+_bras0
 $EndSCHEMATC
