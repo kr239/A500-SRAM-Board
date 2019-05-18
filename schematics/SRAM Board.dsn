@@ -390,7 +390,7 @@
     )
     (net /gnd
       (pins U1-14 U1-12 U1-11 U1-1 U16-20 U17-20 U18-20 U19-20 U20-20 U21-20 U22-20
-        U23-20 C1-2 C2-2 C3-2 C4-2 U2-7 U2-11 U2-12 U2-13 U3-41 U3-34 U3-12)
+        U23-20 C1-2 C2-2 C3-2 C4-2 U2-7 U2-12 U2-13 U3-41 U3-34 U3-12)
     )
     (net /a4
       (pins U1-6 U16-11 U17-11 U18-11 U19-11 U20-11 U21-11 U22-11 U23-11 U3-23)
@@ -507,12 +507,15 @@
     (net /_sramce
       (pins U2-8 U3-6)
     )
+    (net /nc
+      (pins U2-11)
+    )
     (class kicad_default "" /_bras0 /_bras1 /_cas /_lcas /_oe /_sramce /_ucas
       /_we /a0 /a1 /a2 /a3 /a4 /a5 /a6 /a7 /a8 /clk /d0 /d1 /d10 /d11 /d12
       /d13 /d14 /d15 /d2 /d3 /d4 /d5 /d6 /d7 /d8 /d9 /gnd /ma0 /ma1 /ma2 /ma3
-      /ma4 /ma5 /ma6 /ma7 /ma8 /vcc5 "Net-(U16-Pad5)" "Net-(U17-Pad5)" "Net-(U18-Pad5)"
-      "Net-(U19-Pad5)" "Net-(U20-Pad5)" "Net-(U21-Pad5)" "Net-(U22-Pad5)"
-      "Net-(U23-Pad5)"
+      /ma4 /ma5 /ma6 /ma7 /ma8 /nc /vcc5 "Net-(U16-Pad5)" "Net-(U17-Pad5)"
+      "Net-(U18-Pad5)" "Net-(U19-Pad5)" "Net-(U20-Pad5)" "Net-(U21-Pad5)"
+      "Net-(U22-Pad5)" "Net-(U23-Pad5)"
       (circuit
         (use_via Via[0-1]_800:400_um)
       )

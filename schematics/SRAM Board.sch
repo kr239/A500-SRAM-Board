@@ -920,8 +920,6 @@ Text Label 900  6650 2    50   ~ 0
 gnd
 Text Label 900  6850 2    50   ~ 0
 gnd
-Text Label 1500 6750 0    50   ~ 0
-gnd
 Text Label 900  6100 2    50   ~ 0
 clk
 Text Label 900  6300 2    50   ~ 0
@@ -1027,4 +1025,6 @@ Text Label 5700 5150 0    50   ~ 0
 d8
 Text Label 4600 5350 2    50   ~ 0
 _bras0
+Text Label 1500 6750 0    50   ~ 0
+nc
 $EndSCHEMATC
