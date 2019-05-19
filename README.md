@@ -22,4 +22,4 @@ Project is all done in KiCad 5.1.2
 
 1 x 74ABT00D-T Quad Input NAND Gate (Nexperia)
 
-16 x 10-pin SIL Headers (Harwin M20-9771042)
+16 x 10-pin SIL Headers (Harwin M20-9991046)
