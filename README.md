@@ -16,10 +16,10 @@ Project is all done in KiCad 5.1.2
 
 4 x X7R 0.1uF MLCC SMD Capacitors (1206 (imperial))
 
-1 x CY62157ESL-45ZSXI 8Mbit (512K x 16) SRAM
+1 x CY62157ESL-45ZSXI 8Mbit (512K x 16) SRAM (Cypress)
 
-1 x SN74ABT821ADW (SOIC-14) 10-bit D-Type Flip Flop
+1 x SN74ABT821ADWR (SOIC-14) 10-bit D-Type Flip Flop (Texas Instruments)
 
-1 x SN74ABT00 Quad Input NAND Gate
+1 x 74ABT00D-T Quad Input NAND Gate (Nexperia)
 
 16 x 10-pin SIL Headers (Harwin M20-9771042)
