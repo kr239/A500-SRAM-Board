@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.2-1)-1*
-G04 #@! TF.CreationDate,2019-05-18T22:44:22+01:00*
+G04 #@! TF.CreationDate,2019-05-19T22:24:24+01:00*
 G04 #@! TF.ProjectId,SRAM Board,5352414d-2042-46f6-9172-642e6b696361,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Soldermask,Top*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.2-1)-1) date 2019-05-18 22:44:22*
+G04 Created by KiCad (PCBNEW (5.1.2-1)-1) date 2019-05-19 22:24:24*
 %MOMM*%
 %LPD*%
 G04 APERTURE LIST*
