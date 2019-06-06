@@ -26,7 +26,7 @@
             139700 -101600  139700 -71120  140970 -69850  223520 -69850
             224790 -71120)
     )
-    (via "Via[0-1]_800:400_um")
+    (via "Via[0-1]_600:300_um" "Via[0-1]_800:400_um")
     (rule
       (width 250)
       (clearance 200.1)
@@ -103,7 +103,7 @@
       (place U5 213360 -91884.5 front 90 (PN "CY62157ESL-45ZSXI"))
     )
     (component "Package_TO_SOT_SMD:SOT-353_SC-70-5_Handsoldering"
-      (place U7 174625 -84201 front 0 (PN 74LVC1G79))
+      (place U7 174625 -84201 front 0 (PN 74AHCT1G79))
     )
   )
   (library
@@ -576,6 +576,11 @@
       (shape (rect F.Cu -750 -200 750 200))
       (attach off)
     )
+    (padstack "Via[0-1]_600:300_um"
+      (shape (circle F.Cu 600))
+      (shape (circle B.Cu 600))
+      (attach off)
+    )
     (padstack "Via[0-1]_800:400_um"
       (shape (circle F.Cu 800))
       (shape (circle B.Cu 800))
@@ -611,7 +616,7 @@
       (pins J23-1 U4-17 U5-17)
     )
     (net /_bras0
-      (pins J17-1 U1-1 U4-18 U5-18 U7-1)
+      (pins J17-1 U1-1 U7-1)
     )
     (net /a0
       (pins J24-1 U2-2 U4-27 U5-27)
@@ -781,19 +786,27 @@
         U3-14 U4-33 U4-11 U5-11 U5-33 U7-5)
     )
     (net /a18
-      (pins U7-4)
+      (pins U4-18 U5-18 U7-4)
     )
     (class kicad_default "" /1d /2d /2q /3d /3q /4d /4q /5d /5q /6d /6q /7d
       /7q /8d /8q /_bras0 /_bras1 /_cas /_ceu4 /_ceu5 /_invbdra9 /_lcas /_sramce
       /_ucas /_we /a0 /a1 /a18 /a2 /a3 /a4 /a5 /a6 /a7 /a8 /bdra9 /clk /d0
-      /d1 /d10 /d11 /d12 /d13 /d14 /d15 /d2 /d3 /d4 /d5 /d6 /d7 /d8 /d9 /gnd
-      /ma0 /ma1 /ma2 /ma3 /ma4 /ma5 /ma6 /ma7 /ma8 /u34_le /vcc5 GND "Net-(U2-Pad14)"
-      VCC
+      /d1 /d10 /d11 /d12 /d13 /d14 /d15 /d2 /d3 /d4 /d5 /d6 /d7 /d8 /d9 /ma0
+      /ma1 /ma2 /ma3 /ma4 /ma5 /ma6 /ma7 /ma8 /u34_le "Net-(U2-Pad14)"
+      (circuit
+        (use_via Via[0-1]_600:300_um)
+      )
+      (rule
+        (width 250)
+        (clearance 200.1)
+      )
+    )
+    (class Power GND VCC
       (circuit
         (use_via Via[0-1]_800:400_um)
       )
       (rule
-        (width 250)
+        (width 381)
         (clearance 200.1)
       )
     )
