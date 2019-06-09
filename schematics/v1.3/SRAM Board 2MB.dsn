@@ -41,7 +41,7 @@
       (place J30 150622 -92202 front 0 (PN Conn_01x01))
       (place J31 150622 -89662 front 0 (PN Conn_01x01))
       (place J32 150622 -87122 front 0 (PN Conn_01x01))
-      (place J18 154432 -82042 front 0 (PN Conn_01x01))
+      (place J18 218948 -82042 front 0 (PN Conn_01x01))
       (place J21 150622 -82042 front 0 (PN Conn_01x01))
       (place J1 226568 -79502 front 0 (PN Conn_01x01))
       (place J2 218948 -76962 front 0 (PN Conn_01x01))
@@ -73,37 +73,37 @@
       (place U34 255270 -74930 front 0 (PN 74LS373))
     )
     (component "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm"
-      (place U6 245110 -80010 front 0 (PN 74ABT373))
+      (place U6 245110 -80645 front 0 (PN 74ABT373))
     )
     (component "Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm"
-      (place U2 162433 -90741.5 front 0 (PN 74ABT821ADW))
+      (place U2 161988 -92583 front 270 (PN 74ABT821ADW))
     )
     (component Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder
-      (place C1 156718 -74168 front 0 (PN 0.1uF))
-      (place C2 162433 -74168 front 0 (PN 0.1uF))
-      (place C3 156718 -77978 front 0 (PN 0.1uF))
-      (place C4 162433 -77978 front 0 (PN 0.1uF))
-      (place C5 193167 -74041 front 0 (PN 0.1uF))
-      (place C6 198882 -74041 front 0 (PN 0.1uF))
-      (place C7 193167 -77851 front 0 (PN 0.1uF))
+      (place C1 156464 -84963 front 180 (PN 0.1uF))
+      (place C2 165722 -73431.4 front 90 (PN 0.1uF))
+      (place C3 185484 -100584 front 0 (PN 0.1uF))
+      (place C4 185496 -83185 front 180 (PN 0.1uF))
+      (place C5 192278 -73406 front 270 (PN 0.1uF))
+      (place C6 209360 -100584 front 0 (PN 0.1uF))
+      (place C7 209360 -83185 front 180 (PN 0.1uF))
     )
     (component "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
-      (place U1 174625 -93916.5 front 180 (PN 74ABT00))
+      (place U1 160401 -75755.5 front 180 (PN 74ABT00))
     )
     (component Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder::1
-      (place C8 198882 -77851 front 0 (PN 0.1uF))
+      (place C8 245364 -88900 front 180 (PN 0.1uF))
     )
     (component "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm::1"
-      (place U3 184785 -77470 front 0 (PN 74ABT32))
+      (place U3 186477 -75722.5 front 0 (PN 74ABT32))
     )
     (component "Package_SO:TSOP-II-44_10.16x18.41mm_P0.8mm_copy"
-      (place U4 191262 -91884.5 front 90 (PN "CY62157ESL-45ZSXI"))
+      (place U4 184404 -91884.5 front 90 (PN "CY62157ESL-45ZSXI"))
     )
     (component "Package_SO:TSOP-II-44_10.16x18.41mm_P0.8mm_copy::1"
-      (place U5 213360 -91884.5 front 90 (PN "CY62157ESL-45ZSXI"))
+      (place U5 208280 -91884.5 front 90 (PN "CY62157ESL-45ZSXI"))
     )
     (component "Package_TO_SOT_SMD:SOT-353_SC-70-5_Handsoldering"
-      (place U7 174625 -84201 front 0 (PN 74AHCT1G79))
+      (place U7 176022 -73406 front 180 (PN 74AHCT1G79))
     )
   )
   (library
