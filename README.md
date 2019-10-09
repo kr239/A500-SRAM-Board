@@ -18,7 +18,7 @@ Project is all done in KiCad 5.1.2
 
 1 x CY62157ESL-45ZSXI 8Mbit (512K x 16) SRAM (Cypress) - https://www.mouser.co.uk/ProductDetail/Cypress-Semiconductor/CY62157ESL-45ZSXI?qs=sGAEpiMZZMt9mBA6nIyysFkPZ0BxsYL2O8lsqoQk61s%3D
 
-1 x SN74ABT821ADWR (SOIC-14) 10-bit D-Type Flip Flop (Texas Instruments) - https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74ABT821ADWR?qs=FM6NhYOeeBXxX%2Fnpl0SzFQ%3D%3D
+1 x SN74ABT821ADWR (SOIC-24) 10-bit D-Type Flip Flop (Texas Instruments) - https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74ABT821ADWR?qs=FM6NhYOeeBXxX%2Fnpl0SzFQ%3D%3D
 
 1 x 74ABT00D-T Quad Input NAND Gate (Nexperia) - https://www.mouser.co.uk/ProductDetail/Nexperia/74ABT00D118?qs=sGAEpiMZZMtMa9lbYwD6ZKUVY3zpSJbelxTPifZhJv0%3D
 
