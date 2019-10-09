@@ -14,12 +14,12 @@ Project is all done in KiCad 5.1.2
 
 # Bill of Materials
 
-4 x X7R 0.1uF MLCC SMD Capacitors (1206 (imperial))
+4 x X7R 0.1uF MLCC SMD Capacitors (1206 (imperial)) - https://www.mouser.co.uk/ProductDetail/KEMET/C1206C104K4RACAUTO?qs=ds50AKTGxA8wfdh9NdUErA%3D%3D
 
-1 x CY62157ESL-45ZSXI 8Mbit (512K x 16) SRAM (Cypress)
+1 x CY62157ESL-45ZSXI 8Mbit (512K x 16) SRAM (Cypress) - https://www.mouser.co.uk/ProductDetail/Cypress-Semiconductor/CY62157ESL-45ZSXI?qs=sGAEpiMZZMt9mBA6nIyysFkPZ0BxsYL2O8lsqoQk61s%3D
 
-1 x SN74ABT821ADWR (SOIC-14) 10-bit D-Type Flip Flop (Texas Instruments)
+1 x SN74ABT821ADWR (SOIC-24) 10-bit D-Type Flip Flop (Texas Instruments) - https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74ABT821ADWR?qs=FM6NhYOeeBXxX%2Fnpl0SzFQ%3D%3D
 
-1 x 74ABT00D-T Quad Input NAND Gate (Nexperia)
+1 x 74ABT00D-T Quad Input NAND Gate (Nexperia) - https://www.mouser.co.uk/ProductDetail/Nexperia/74ABT00D118?qs=sGAEpiMZZMtMa9lbYwD6ZKUVY3zpSJbelxTPifZhJv0%3D
 
-16 x 10-pin SIL Headers (Harwin M20-9991046)
+16 x 10-pin SIL Headers (Harwin M20-9991046) - https://www.mouser.co.uk/ProductDetail/Harwin/M20-9991046?qs=%2Fha2pyFaduidlkUepihCFfAt%252B%2FaLAftwmcRSbK8wUk3YgWpZFdsPYA%3D%3D
